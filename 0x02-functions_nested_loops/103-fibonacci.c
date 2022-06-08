@@ -19,7 +19,7 @@ int main(void)
 			break;
 		if ((sum % 2) == 0)
 			total += sum;
-		
+
 		fib1 = fib2;
 		fib2 = sum;
 	}
